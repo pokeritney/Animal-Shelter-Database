@@ -1,0 +1,3 @@
+All of our sql statements are in root/TeamInfo.SQL file. 
+Our schema file is root/Phase_3_Draft/team001_db_schema.sql 
+Our seed data file is root/Phase_3_Draft/team001_p3_seed_data.sql.
