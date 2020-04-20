@@ -1,0 +1,433 @@
+1,Cat,Birman
+1,Cat,Korat
+1,Cat,Ocicat
+2,Dog,Akbash Dog
+2,Dog,German Spitz
+3,Dog,Scottish Terrier
+3,Dog,Welsh Terrier
+4,Dog,Poodle
+5,Dog,Cane Corso
+6,Cat,LaPerm
+6,Cat,Munchkin
+6,Cat,Oriental
+7,Dog,Alapaha Blue Blood Bulldog
+7,Dog,Basset Hound
+8,Cat,Burmilla
+9,Cat,Pixiebob
+10,Cat,Birman
+10,Cat,Norwegian Forest Cat
+11,Cat,Unknown
+12,Cat,Scottish Fold
+13,Dog,Labradoodle
+14,Dog,Havanese
+15,Dog,Greater Swiss Mountain Dog
+16,Cat,Balinese
+16,Cat,Siberian
+17,Cat,Turkish Van
+18,Dog,Small Munsterlander Pointer
+19,Dog,Bull Terrier
+19,Dog,Rhodesian Ridgeback
+20,Cat,Balinese
+20,Cat,Birman
+20,Cat,Bombay
+21,Dog,Puli
+21,Dog,Scottish Deerhound
+22,Cat,Balinese
+23,Cat,Himalayan
+23,Cat,Korat
+24,Dog,Bracco Italiano
+25,Cat,Cymric
+26,Dog,Cavalier King Charles Spaniel
+26,Dog,Kerry Blue Terrier
+27,Cat,Burmese
+27,Cat,Devon Rex
+28,Dog,Afghan Hound
+29,Cat,Devon Rex
+29,Cat,Havana Brown
+30,Dog,Beauceron
+30,Dog,Bichon Frise
+30,Dog,Greater Swiss Mountain Dog
+31,Dog,Pomsky
+31,Dog,Rat Terrier
+31,Dog,Soft Coated Wheaten Terrier
+32,Cat,Singapura
+33,Cat,Bombay
+34,Dog,Basenji
+34,Dog,Labradoodle
+35,Cat,Somali
+36,Dog,Vizsla
+37,Dog,Giant Schnauzer
+37,Dog,Great Dane
+37,Dog,Sealyham Terrier
+38,Cat,Russian Blue
+39,Cat,British Shorthair
+39,Cat,Burmilla
+39,Cat,Maine Coon
+40,Cat,Russian Blue
+41,Dog,Lowchen
+42,Cat,Unknown
+43,Cat,LaPerm
+44,Dog,Border Terrier
+44,Dog,Brussels Griffon
+45,Cat,Munchkin
+46,Dog,American Pit Bull Terrier
+46,Dog,Rottweiler
+47,Dog,Akbash Dog
+48,Dog,Border Terrier
+48,Dog,Cardigan Welsh Corgi
+48,Dog,Redbone Coonhound
+48,Dog,Whippet
+49,Cat,American Curl
+49,Cat,Egyptian Mau
+49,Cat,Somali
+50,Cat,Burmilla
+50,Cat,Scottish Fold
+51,Cat,Chartreux
+51,Cat,Singapura
+52,Cat,Chartreux
+52,Cat,Oriental
+53,Cat,Javanese
+54,Dog,Sussex Spaniel
+55,Dog,Cockapoo
+56,Dog,Silken Windhound
+56,Dog,Silky Terrier
+57,Dog,Goldendoodle
+57,Dog,Puli
+58,Cat,Ragamuffin
+59,Cat,Bengal
+60,Dog,Mudi
+60,Dog,Norfolk Terrier
+60,Dog,Poodle
+61,Dog,Swedish Vallhund
+62,Dog,Irish Setter
+62,Dog,Irish Terrier
+63,Dog,Afghan Hound
+64,Dog,Belgian Sheepdog
+65,Cat,Ocicat
+66,Cat,Cymric
+67,Cat,Korat
+68,Cat,Turkish Angora
+69,Cat,Javanese
+70,Cat,Burmilla
+71,Cat,Oriental
+72,Dog,Black Russian Terrier
+73,Dog,Yorkshire Terrier
+74,Cat,Abyssinian
+74,Cat,Pixiebob
+75,Dog,Spanish Greyhound
+76,Cat,LaPerm
+77,Dog,Welsh Terrier
+78,Cat,Turkish Van
+79,Cat,Li Hua
+80,Cat,Maine Coon
+81,Dog,Chihuahua
+82,Dog,Thai Ridgeback
+82,Dog,Wirehaired Vizsla
+83,Cat,Kurilian Bobtail
+84,Cat,Tonkinese
+85,Cat,Abyssinian
+86,Dog,Chinese Shar-Pei
+86,Dog,Miniature Schnauzer
+87,Dog,Bernese Mountain Dog
+88,Cat,British Shorthair
+89,Cat,Russian Blue
+89,Cat,Turkish Van
+90,Cat,Korat
+91,Cat,American Wirehair
+91,Cat,LaPerm
+92,Cat,Oriental
+93,Cat,American Bobtail
+93,Cat,Ocicat
+94,Dog,Tibetan Terrier
+95,Cat,Savannah
+96,Cat,Maine Coon
+97,Dog,Alaskan Husky
+97,Dog,Cesky Terrier
+97,Dog,Pyrenean Shepherd
+98,Dog,Australian Shepherd
+98,Dog,Newfoundland
+98,Dog,Pekeapoo
+98,Dog,Puli
+99,Cat,Bengal
+100,Cat,British Shorthair
+100,Cat,Egyptian Mau
+100,Cat,Selkirk Rex
+101,Cat,Balinese
+102,Cat,Abyssinian
+103,Cat,American Curl
+103,Cat,British Shorthair
+103,Cat,Oriental
+103,Cat,Siberian
+104,Cat,Ragdoll
+105,Cat,Turkish Van
+106,Cat,Bombay
+107,Cat,Havana Brown
+108,Dog,Rottweiler
+109,Cat,Havana Brown
+110,Cat,Li Hua
+110,Cat,Persian
+111,Cat,American Wirehair
+111,Cat,Cymric
+112,Cat,Russian Blue
+113,Cat,Birman
+113,Cat,Munchkin
+113,Cat,Tonkinese
+114,Dog,Sloughi
+115,Cat,Unknown
+116,Dog,Belgian Tervuren
+117,Cat,Himalayan
+117,Cat,Oriental
+118,Cat,Burmilla
+118,Cat,Kurilian Bobtail
+119,Dog,Basador
+119,Dog,Bulldog
+120,Cat,Himalayan
+121,Cat,Himalayan
+122,Cat,Burmese
+122,Cat,Savannah
+123,Dog,Chinese Crested
+123,Dog,Lowchen
+124,Cat,Oriental
+124,Cat,Ragdoll
+124,Cat,Somali
+125,Cat,Kurilian Bobtail
+126,Cat,Himalayan
+126,Cat,Korat
+127,Dog,Cardigan Welsh Corgi
+127,Dog,Puggle
+128,Cat,Mixed
+129,Cat,American Curl
+130,Dog,Black and Tan Coonhound
+131,Dog,Mastiff
+131,Dog,Perro de Presa Canario
+132,Dog,Cavalier King Charles Spaniel
+132,Dog,Harrier
+133,Cat,Mixed
+134,Cat,Kurilian Bobtail
+134,Cat,Scottish Fold
+135,Dog,Chinese Crested
+135,Dog,Vizsla
+136,Dog,Belgian Tervuren
+137,Dog,Dalmatian
+137,Dog,Goldendoodle
+137,Dog,Spanish Water Dog
+138,Cat,Birman
+139,Cat,Siamese
+140,Cat,Turkish Van
+141,Cat,Scottish Fold
+142,Cat,Korat
+143,Cat,Munchkin
+144,Cat,Exotic Shorthair
+144,Cat,Scottish Fold
+145,Cat,Burmese
+145,Cat,Ocicat
+146,Cat,American Shorthair
+147,Cat,Pixiebob
+148,Cat,Burmese
+148,Cat,Ocicat
+148,Cat,Siberian
+149,Cat,Bombay
+150,Cat,Scottish Fold
+151,Cat,Havana Brown
+152,Cat,Aegean Cat
+153,Cat,American Curl
+153,Cat,British Shorthair
+154,Cat,Ragdoll
+154,Cat,Russian Blue
+155,Cat,Egyptian Mau
+155,Cat,LaPerm
+155,Cat,Oriental
+156,Cat,Bengal
+156,Cat,Persian
+157,Cat,American Bobtail
+157,Cat,Kurilian Bobtail
+157,Cat,Turkish Angora
+158,Dog,Finnish Lapphund
+158,Dog,Finnish Spitz
+158,Dog,Giant Schnauzer
+159,Cat,Ragdoll
+160,Dog,Akita
+161,Cat,Maine Coon
+161,Cat,Manx
+162,Cat,American Curl
+162,Cat,American Shorthair
+163,Cat,Savannah
+163,Cat,Tonkinese
+164,Cat,Birman
+165,Dog,Bolognese
+166,Cat,Scottish Fold
+167,Cat,American Wirehair
+167,Cat,Bombay
+168,Cat,Havana Brown
+169,Cat,American Bobtail
+169,Cat,Li Hua
+170,Cat,Turkish Van
+171,Cat,American Shorthair
+171,Cat,Bombay
+172,Cat,Savannah
+173,Cat,Toyger
+174,Cat,Cornish Rex
+174,Cat,Oriental
+175,Cat,Korat
+176,Cat,Ragdoll
+176,Cat,Turkish Van
+177,Cat,Egyptian Mau
+177,Cat,Ragamuffin
+178,Cat,British Shorthair
+179,Cat,Persian
+180,Cat,British Shorthair
+180,Cat,Chartreux
+181,Cat,Bombay
+182,Cat,Balinese
+182,Cat,Burmese
+183,Cat,Pixiebob
+184,Cat,American Shorthair
+185,Dog,German Shepherd Dog
+186,Cat,Havana Brown
+187,Cat,Burmilla
+188,Cat,American Curl
+188,Cat,Siberian
+189,Cat,Kurilian Bobtail
+190,Dog,Australian Terrier
+190,Dog,Flat-Coated Retriever
+191,Cat,Balinese
+192,Cat,Bombay
+192,Cat,Kurilian Bobtail
+193,Cat,Cymric
+193,Cat,LaPerm
+193,Cat,Singapura
+194,Cat,Javanese
+195,Cat,Mixed
+196,Cat,Siberian
+197,Cat,American Bobtail
+198,Cat,American Curl
+198,Cat,Egyptian Mau
+199,Cat,Aegean Cat
+199,Cat,Burmese
+199,Cat,Turkish Van
+200,Cat,Cymric
+200,Cat,Somali
+201,Cat,American Curl
+202,Cat,Abyssinian
+202,Cat,Egyptian Mau
+202,Cat,Somali
+203,Cat,Cornish Rex
+204,Cat,Manx
+204,Cat,Sphynx
+205,Cat,Bengal
+206,Cat,Scottish Fold
+206,Cat,Turkish Angora
+207,Cat,Chartreux
+207,Cat,Maine Coon
+208,Cat,Burmilla
+208,Cat,Siberian
+209,Cat,Ragamuffin
+210,Cat,Devon Rex
+211,Cat,Turkish Angora
+212,Cat,Pixiebob
+213,Cat,Javanese
+214,Cat,Egyptian Mau
+214,Cat,Ocicat
+214,Cat,Oriental
+215,Cat,Balinese
+216,Cat,Egyptian Mau
+217,Cat,Bombay
+217,Cat,Ocicat
+218,Cat,Cymric
+219,Cat,American Shorthair
+220,Cat,Li Hua
+221,Cat,Bombay
+222,Cat,Norwegian Forest Cat
+223,Cat,American Wirehair
+223,Cat,Bombay
+223,Cat,Russian Blue
+224,Cat,Sphynx
+225,Cat,Exotic Shorthair
+226,Cat,Devon Rex
+227,Cat,Egyptian Mau
+228,Cat,Somali
+229,Cat,Ocicat
+230,Cat,Bengal
+230,Cat,Himalayan
+231,Cat,Maine Coon
+232,Cat,Balinese
+232,Cat,Devon Rex
+233,Cat,Aegean Cat
+233,Cat,American Shorthair
+233,Cat,Kurilian Bobtail
+234,Cat,Selkirk Rex
+235,Cat,Manx
+236,Cat,British Shorthair
+237,Cat,American Curl
+238,Dog,Belgian Tervuren
+238,Dog,Norwegian Elkhound
+239,Cat,Munchkin
+240,Cat,Exotic Shorthair
+241,Cat,LaPerm
+241,Cat,Pixiebob
+241,Cat,Turkish Angora
+242,Cat,Havana Brown
+243,Cat,Burmese
+244,Cat,Javanese
+244,Cat,Savannah
+245,Cat,Toyger
+246,Cat,Birman
+247,Cat,Munchkin
+247,Cat,Scottish Fold
+248,Dog,Chow Chow
+249,Dog,Belgian Laekenois
+249,Dog,Cirneco dell'Etna
+250,Dog,Dandie Dinmont Terrier
+251,Dog,Clumber Spaniel
+252,Cat,Bombay
+253,Dog,Havanese
+254,Dog,Lagotto Romagnolo
+255,Dog,Brittany
+255,Dog,Manchester Terrier
+255,Dog,Samoyed
+256,Cat,Abyssinian
+257,Dog,Cavapom
+257,Dog,Irish Red and White Setter
+257,Dog,Plott
+258,Cat,Oriental
+259,Cat,Burmilla
+259,Cat,Sphynx
+260,Cat,Munchkin
+261,Cat,Aegean Cat
+262,Cat,Egyptian Mau
+263,Cat,Devon Rex
+264,Cat,Egyptian Mau
+265,Cat,Toyger
+266,Cat,Bombay
+267,Cat,Bombay
+268,Cat,Ocicat
+269,Cat,LaPerm
+270,Cat,Norwegian Forest Cat
+271,Cat,Singapura
+272,Cat,Bengal
+273,Cat,Manx
+274,Dog,Wirehaired Vizsla
+275,Cat,Unknown
+276,Cat,Persian
+276,Cat,Savannah
+277,Cat,Abyssinian
+277,Cat,American Shorthair
+277,Cat,American Wirehair
+278,Dog,Miniature Pinscher
+278,Dog,Schapendoes
+278,Dog,Spanish Water Dog
+279,Dog,Aussiedoodle
+280,Cat,Savannah
+281,Cat,Mixed
+282,Cat,Egyptian Mau
+282,Cat,Munchkin
+282,Cat,Russian Blue
+282,Cat,Siberian
+283,Cat,Selkirk Rex
+283,Cat,Turkish Angora
+284,Cat,Turkish Van
+285,Cat,Birman
+285,Cat,Chartreux
+286,Cat,Manx
+286,Cat,Munchkin
+286,Cat,Ragamuffin
